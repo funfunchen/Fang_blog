@@ -12,6 +12,8 @@ footnotereturnlinkcontents = "↩"
     post = "/post/:year/:month/:day/:slug/"
     note = "/note/:year/:month/:day/:slug/"
 
+[languages]
+[languages.en]
 [[menu.main]]
     name = "Home"
     url = "/"
@@ -31,10 +33,24 @@ footnotereturnlinkcontents = "↩"
 [[menu.main]]
     name = "Subscribe"
     url = "/index.xml"
+    
+[languages.cn]
+[[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+[[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 2
+[[menu.main]]
+    name = "Categories"
+    url = "/categories/"
+    weight = 3
 
 [params]
   description = "A notebook of Fang."
-  footer = "&copy; [Fang](https://me/fangbucks.com) 2018 | [Fangbucks](http://www.fangbucks.com/) | [Twitter](https://twitter.com/funfunchen)"
+  footer = "&copy; [Fang](me.fangbucks.com) 2018 | [Fangbucks](http://www.fangbucks.com/) | [Twitter](https://twitter.com/funfunchen)"
 
   highlightjsVersion = "9.12.0"
   highlightjsCDN = "//cdn.bootcss.com"
