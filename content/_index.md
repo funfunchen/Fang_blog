@@ -9,8 +9,9 @@ I defined myself as
 **a Genomics Data Scientist**;  
 **an Amateur Magician trying to find real power of cards and coins**;    
 **a Pythonista and Rer**.
-I used to live in Shanghai, China. I am living in Pennsylvania, USA right now.
 
+
+I used to live in **Shanghai**, China. I am living in **Pennsylvania**, USA right now.
 
 
 
