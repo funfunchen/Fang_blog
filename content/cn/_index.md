@@ -1,8 +1,8 @@
 ---
-title: Home
+title: 中文首页
 ---
 
-[<img src="log.JPG" style="max-width:15%;min-width:40px;float:right;" alt="Github repo" />](https://me.fangbucks.com)
+[<img src="./log.JPG" style="max-width:15%;min-width:40px;float:right;" alt="Github repo" />](https://me.fangbucks.com)
 
 个人主页建设中，加鸡腿。
 
