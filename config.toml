@@ -49,6 +49,10 @@ footnotereturnlinkcontents = "↩"
     name = "博客"
     url = "/cn/"
     weight = 3
+[[menu.cn]]
+    name = "English"
+    url = "/"
+    weight = 4
 
 [params]
   description = "A notebook of Fang."
