@@ -4,7 +4,8 @@ title: Home
 
 [<img src="log.JPG" style="max-width:15%;min-width:40px;float:right;" alt="Github repo" />](https://me.fangbucks.com)
 
-I am Fang.  
+Hello, I am **Fang Chen**.  
+
 I defined myself as 
 **a Genomics Data Scientist**;  
 **an Amateur Magician trying to find real power of cards and coins**;    
