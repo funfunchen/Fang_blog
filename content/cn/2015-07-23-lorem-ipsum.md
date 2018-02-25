@@ -3,7 +3,7 @@ title: The Zen of Python
 date: '2018-02-07'
 
 tags:
-  - Markdown
+  - Test
 ---
 
 ## The Zen of Python, by Tim Peters

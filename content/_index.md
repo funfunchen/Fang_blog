@@ -6,14 +6,14 @@ title: Home
 
 I am Fang.  
 I defined myself as 
-**a Genomics Data Scientist**;
-**an Amateur Magician trying to find real power of cards and coins**;  
+**a Genomics Data Scientist**;  
+**an Amateur Magician trying to find real power of cards and coins**;    
 **a Pythonista and Rer**.
 I used to live in Shanghai, China. I am living in Pennsylvania, USA right now.
 
 
 
 
-This site's theme was ported from [Ivy](https://github.com/dmulholland/ivy), redesigned by [Yihui Xie](https://yihui.name/)
+This site's theme was ported from [Ivy](https://github.com/dmulholland/ivy), redesigned by [Yihui Xie](https://github.com/yihui/hugo-ivy)
 
 All pages not under the root directory of the website are listed below. You can also visit the list page of a single section, e.g., [posts](/post/), or [notes](/note/).
