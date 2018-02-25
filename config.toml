@@ -12,8 +12,6 @@ footnotereturnlinkcontents = "↩"
     post = "/post/:year/:month/:day/:slug/"
     note = "/note/:year/:month/:day/:slug/"
 
-[languages]
-[languages.en]
 [[menu.main]]
     name = "Home"
     url = "/"
@@ -31,21 +29,25 @@ footnotereturnlinkcontents = "↩"
     url = "/tags/"
     weight = 4
 [[menu.main]]
+    name = "中文"
+    url = "/cn/"
+    weight = 5
+[[menu.main]]
     name = "Subscribe"
     url = "/index.xml"
     
-[languages.cn]
-[[menu.main]]
-    name = "Home"
+
+[[menu.cn]]
+    name = "首页"
     url = "/"
     weight = 1
-[[menu.main]]
-    name = "About"
-    url = "/about/"
+[[menu.cn]]
+    name = "关于"
+    url = "/cn/about/"
     weight = 2
-[[menu.main]]
-    name = "Categories"
-    url = "/categories/"
+[[menu.cn]]
+    name = "博客"
+    url = "/categories/cn"
     weight = 3
 
 [params]
