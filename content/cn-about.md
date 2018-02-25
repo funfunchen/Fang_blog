@@ -1,7 +1,7 @@
 ---
 title: 关于
 slug: "cn/about"
-date: '2018-02-25'
+subtitle: R/Python · 统计 · 魔术 · 以及其它
 ---
 ## 我是谁
 

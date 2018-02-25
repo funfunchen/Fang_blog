@@ -47,7 +47,7 @@ footnotereturnlinkcontents = "↩"
     weight = 2
 [[menu.cn]]
     name = "博客"
-    url = "/categories/cn"
+    url = "/cn/"
     weight = 3
 
 [params]
