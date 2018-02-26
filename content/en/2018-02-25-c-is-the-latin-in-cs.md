@@ -10,6 +10,7 @@ tags:
   - CS
 ---
 
+
 Recently, I am learning the **Computer Systems A Programmer's perspective**, which requires the C as a prerequirement. So I had to study the C language. 
 
 ![CSAPP](https://www.amazon.com/Computer-Systems-Programmers-Perspective-3rd/dp/013409266X)
