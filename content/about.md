@@ -5,8 +5,8 @@ date: '2018-02-26'
 ---
 
 
-###You could choose:
-[<img src="/imgs/shell_coding.png"/>]  
+### You could choose:  
+![coding](/imgs/shell_coding.png)
 
-###or:
-[<img src="/imgs/maomimao_fat.JPG" alt="Github repo" />]
+### or:  
+![maomimao](/imgs/maomimao_fat.JPG)
