@@ -1,5 +1,5 @@
 ---
-title: cheer-up-for-Yin-Wang
+title: 为垠神打个小call
 author: Fang
 date: '2018-02-27'
 slug: cheer-up-for-yin-wang
