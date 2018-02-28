@@ -28,4 +28,4 @@ If the implementation is hard to explain, it's a bad idea.
 If the implementation is easy to explain, it may be a good idea.  
 Namespaces are one honking great idea -- let's do more of those!  
 
-![zen_of_python](/img/zen-rocks-japan-bamboo-184976-1024x640.jpg)
+![zen_of_python](/imgs/zen-rocks-japan-bamboo-184976-1024x640.jpg)
