@@ -56,7 +56,7 @@ footnotereturnlinkcontents = "↩"
 
 [params]
   description = "A notebook of Fang."
-  footer = "&copy; [Fang](me.fangbucks.com) 2018 | [Fangbucks](http://www.fangbucks.com/) | [Twitter](https://twitter.com/funfunchen)"
+  footer = "&copy; [Fang](me.fangbucks.com) 2018 | [Fangbucks](http://www.fangbucks.com/) | [Twitter](https://twitter.com/funfunchen) | [Facebook](https://www.facebook.com/funfunchen1983)"
 
   highlightjsVersion = "9.12.0"
   highlightjsCDN = "//cdn.bootcss.com"

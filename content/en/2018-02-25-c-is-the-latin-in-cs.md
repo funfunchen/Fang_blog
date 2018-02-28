@@ -15,7 +15,7 @@ Recently, I am learning the **Computer Systems A Programmer's perspective**, whi
 
 ![CSAPP](https://images-na.ssl-images-amazon.com/images/I/41AoUQujOCL._SX387_BO1,204,203,200_.jpg)
 
-Although C is thought as old and broken <sup>[1](#myfootnote1)</sup>, I found it is elegant and clean (except for poiters, of course). 
+Although C is thought as old and broken <sup>[1](#myfootnote1)</sup>, I found it is elegant and clean (except for pointers, of course). 
 C for Computer Science is like Latin for Natural Science (include Math). **Even you won't use it, you should know it.**
 
 
