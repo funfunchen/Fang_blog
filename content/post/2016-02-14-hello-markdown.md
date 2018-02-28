@@ -13,6 +13,8 @@ tags:
   - RStudio
 ---
 
+## This is a sampler post with the Hugo theme, but it did provide some information. So why bother to reinvent wheels. 
+
 This sample post is mainly for [**blogdown**](https://github.com/rstudio/blogdown) users. If you do not use **blogdown**, you can skip the first section.
 
 # 1. Markdown or R Markdown
